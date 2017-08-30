@@ -1,0 +1,3 @@
+Use sqlite3 to test create command
+Write script in python that creates DB
+Create an API that accesses the DB
